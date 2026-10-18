@@ -1,0 +1,31 @@
+id_cliente,cidade,idade,sexo
+1,Sao Paulo,28,F
+2,Campinas,35,M
+3,Santos,42,F
+4,Ribeirao Preto,31,M
+5,Sorocaba,25,F
+6,Guarulhos,50,M
+7,Osasco,29,F
+8,Jundiai,38,M
+9,Piracicaba,45,F
+10,Bauru,33,M
+11,Sao Carlos,27,F
+12,Araraquara,41,M
+13,Marilia,36,F
+14,Franca,52,M
+15,Taubate,30,F
+16,Sao Paulo,28,F
+17,Campinas,35,M
+18,Santos,42,F
+19,Ribeirao Preto,31,M
+20,Sorocaba,25,F
+21,Guarulhos,50,M
+22,Osasco,29,F
+23,Jundiai,38,M
+24,Piracicaba,45,F
+25,Bauru,33,M
+26,Sao Carlos,27,F
+27,Araraquara,41,M
+28,Marilia,36,F
+29,Franca,52,M
+30,Taubate,30,F

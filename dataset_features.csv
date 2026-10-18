@@ -1,0 +1,31 @@
+id_venda,id_cliente,data_venda,produto,quantidade,preco_unitario,cidade,idade,sexo,valor_total,mes,ano,faixa_idade
+1,1,2026-01-10,Notebook,1,3500,Sao Paulo,28,F,3500,1,2026,2
+2,2,2026-01-15,Mouse,3,120,Campinas,35,M,360,1,2026,2
+3,3,2026-01-18,Monitor,2,950,Santos,42,F,1900,1,2026,3
+4,4,2026-01-20,Teclado,2,200,Ribeirao Preto,31,M,400,1,2026,2
+5,5,2026-01-25,Notebook,1,4200,Sorocaba,25,F,4200,1,2026,1
+6,6,2026-02-10,Mouse,5,120,Guarulhos,50,M,600,2,2026,3
+7,7,2026-02-14,Monitor,1,950,Osasco,29,F,950,2,2026,2
+8,8,2026-02-15,Notebook,1,3900,Jundiai,38,M,3900,2,2026,2
+9,9,2026-02-20,Teclado,3,200,Piracicaba,45,F,600,2,2026,3
+10,10,2026-02-22,Monitor,2,950,Bauru,33,M,1900,2,2026,2
+11,11,2026-03-02,Mouse,4,120,Sao Carlos,27,F,480,3,2026,2
+12,12,2026-03-08,Notebook,1,4500,Araraquara,41,M,4500,3,2026,3
+13,13,2026-03-12,Monitor,2,980,Marilia,36,F,1960,3,2026,2
+14,14,2026-03-18,Teclado,3,220,Franca,52,M,660,3,2026,3
+15,15,2026-03-28,Mouse,6,130,Taubate,30,F,780,3,2026,2
+16,1,2026-01-10,Notebook,1,3500,Sao Paulo,28,F,3500,1,2026,2
+17,2,2026-01-15,Mouse,3,120,Campinas,35,M,360,1,2026,2
+18,3,2026-01-18,Monitor,2,950,Santos,42,F,1900,1,2026,3
+19,4,2026-01-20,Teclado,2,200,Ribeirao Preto,31,M,400,1,2026,2
+20,5,2026-01-25,Notebook,1,4200,Sorocaba,25,F,4200,1,2026,1
+21,6,2026-02-10,Mouse,5,120,Guarulhos,50,M,600,2,2026,3
+22,7,2026-02-14,Monitor,1,950,Osasco,29,F,950,2,2026,2
+23,8,2026-02-15,Notebook,1,3900,Jundiai,38,M,3900,2,2026,2
+24,9,2026-02-20,Teclado,3,200,Piracicaba,45,F,600,2,2026,3
+25,10,2026-02-22,Monitor,2,950,Bauru,33,M,1900,2,2026,2
+26,11,2026-03-02,Mouse,4,120,Sao Carlos,27,F,480,3,2026,2
+27,12,2026-03-08,Notebook,1,4500,Araraquara,41,M,4500,3,2026,3
+28,13,2026-03-12,Monitor,2,980,Marilia,36,F,1960,3,2026,2
+29,14,2026-03-18,Teclado,3,220,Franca,52,M,660,3,2026,3
+30,15,2026-03-28,Mouse,6,130,Taubate,30,F,780,3,2026,2
